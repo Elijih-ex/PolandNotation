@@ -1,4 +1,4 @@
-package com.elijih.part2_josepfu;
+package com.elijih.part2_linkedlist;
 
 public class JosepfuDemo {
     public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class JosepfuDemo {
         circleLinkedList.Josepfu(10,20,125);
     }
 }
+
 /**
  * 创建一个唤醒链表类，管理节点
  * */

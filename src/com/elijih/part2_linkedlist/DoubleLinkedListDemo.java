@@ -1,4 +1,4 @@
-package com.elijih.part2_doubleLinkedList;
+package com.elijih.part2_linkedlist;
 
 public class DoubleLinkedListDemo {
     public static void main(String[] args) {

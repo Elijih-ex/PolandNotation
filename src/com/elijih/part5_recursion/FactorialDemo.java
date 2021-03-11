@@ -19,3 +19,6 @@ class Factorial{
         }
     }
 }
+/*
+* 6
+ * */

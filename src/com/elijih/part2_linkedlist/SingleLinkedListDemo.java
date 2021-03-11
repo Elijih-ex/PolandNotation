@@ -2,7 +2,7 @@ package com.elijih.part2_linkedlist;
 
 public class SingleLinkedListDemo {
     /**
-     * 用水浒传英雄的案例来模拟单链表的增删改查
+     * 用漫威英雄的案例来模拟单链表的增删改查
      * */
     public static void main(String[] args) {
         //测试
